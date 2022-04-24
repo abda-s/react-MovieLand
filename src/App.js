@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import MovieCard from "./MovieCard";
-import SearchIcon from "./search.svg";
+import SearchIcon from "./searchIcon.svg";
 import "./App.css";
 
 const API_URL = "http://www.omdbapi.com?apikey=ee9052ab";
